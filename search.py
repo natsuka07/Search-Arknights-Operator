@@ -3,7 +3,7 @@ import re
 import pandas as pd
 dataset = pd.read_csv(r"D:\Code\Tugas\arknights_operators_dataset.csv")
 # ===============================================
-print("Arknights type shit".center(40, "="))
+print("Arknights Operator".center(40, "="))
 
 nama = str(input("Masukkan nama operator : ").strip())
 rarity = str(input("Masukkan rarity operator : ").strip())
@@ -24,5 +24,6 @@ def search(df, nama, rarity):
         print(f"\nNo operator found with name containing '{nama}' and rarity '{rarity}'.")
 
 search(dataset, nama, rarity)
+
 
 
