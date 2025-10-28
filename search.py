@@ -25,22 +25,4 @@ def search(df, nama, rarity):
 
 search(dataset, nama, rarity)
 
-# text = "Learning Python is fun!"
-# match = re.search(r"python", text, re.IGNORECASE)
-# print(bool(match))  # Output: True
-# print(dataset)
-
-# dict_list = dataset.to_dict(orient='dict')
-
-# database_ak = {
-#     "nama" : nama,
-#     "rarity" : rarity,
-#     "class" : "",
-#     "archetype" : "",
-#     "faction" : "",
-#     "gender" : ""
-# }
-
-# match = re.search(f"{nama}", dict_list, str(dict_list))
-# print(bool(match))  # Output: True
 
