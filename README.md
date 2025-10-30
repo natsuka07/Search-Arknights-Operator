@@ -1,5 +1,30 @@
-Tugas mata kuluian pak hasan dc
+Tugas mata kuliah Dasar Pemrograman
+Sumber data :
+https://arknights.wiki.gg/wiki/Operator
 
-ya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 hati-hati git force ya mas
