@@ -1,5 +1,5 @@
-Tugas mata kuliah Dasar Pemrograman
-Sumber data :
+Tugas mata kuliah Dasar Pemrograman  
+Sumber data :  
 https://arknights.wiki.gg/wiki/Operator
 
 
@@ -27,4 +27,32 @@ https://arknights.wiki.gg/wiki/Operator
 
 
 
-hati-hati git force ya mas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  hati-hati git force ya mas
