@@ -55,5 +55,5 @@ https://arknights.wiki.gg/wiki/Operator
 
 
 
-  hati-hati git force ya mas
+  hati-hati git force ya mas  
   korban -force counter : 1
