@@ -1,0 +1,374 @@
+Name;Rarity;Gender;Faction;Class;HP;ATK;DEF;RES;DP Cost;Block;Event;EN_Release;Limited;Birthday
+Sankta Miksaparato;6;Male;Laterano;Defender Sentry Protector;3677;504;703;0;25;3;The Masses' Travels;;;
+Exusiai the New Convenant;6;Female;Penguin Logistics;Specialist Geek;2150;708;150;10;13;1;The Masses' Travels;;Limited;
+Lemuen;6;Female;Laterano;Sniper Deadeye;1448;1201;175;0;22;1;The Masses' Travels;;;
+Gracebearer;5;Female;Bolivar;Guard Primal;2600;820;350;10;22;2;The Masses' Travels;;;
+CONFESS-47;1;Unknown;Laterano;Vanguard Pioneer;770;192;154;0;3;2;The Masses' Travels;;;
+Mon3tr;6;Female;Rhodes Island;Medic Chain;1735;528;221;0;18;1;Dissociative Recombination;9/16/2025;;July 25th
+Alanna;5;Female;Rim Billiton;Supporter Artificer;2560;560;437;0;18;2;Dissociative Recombination;9/16/2025;;April 17th
+Windscoot;4;Male;Yan;Guard Liberator;3355;290;486;15;10;3;Dissociative Recombination;9/16/2025;;November 5th
+Necrass;6;Female;Tara;Caster Shaper;1924;633;133;20;21;1;When Elegies Are Ashes;8/28/2025;;October 16th
+Brigid;5;Female;Tara;Sniper Loopshooter;2350;640;165;0;17;1;When Elegies Are Ashes;8/28/2025;;February 1st
+Wulfenite;5;Female;Sargon;Specialist Trapmaster;1450;520;160;0;11;1;When Elegies Are Ashes;8/28/2025;;December 1st
+Entelechia;6;Female;Rhodes Island;Guard Reaper;2580;700;452;0;23;2;See You Soon;08/07/2025;;December 31st
+Nowell;5;Male;Victoria;Medic Therapist;1367;516;108;10;20;1;See You Soon;08/07/2025;;December 25th
+Blaze the Igniting Spark;6;Female;Elite Op;Caster Primal;1608;662;131;15;21;1;Such is the Joy of Our Reunion;7/17/2025;;March 24th
+Yu;6;Male;Sui;Defender Primal Protector;3333;685;577;10;26;3;Such is the Joy of Our Reunion;7/17/2025;Limited;December 12th
+Xingzhu;5;Female;Yan;Supporter Abjurer;1746;423;181;25;13;1;Such is the Joy of Our Reunion;7/17/2025;;March 24th
+Surfer;5;Female;Blacksteel;Vanguard Agent;1950;560;261;0;10;1;Such is the Joy of Our Reunion;7/17/2025;;May 3rd
+Thorns the Lodestar;6;Male;Iberia;Specialist Alchemist;1173;501;106;30;18;1;Exodus from the Pale Sea;06/05/2025;;March 17th
+Tecno;5;Female;Bolivar;Caster Shaper;1655;519;70;20;20;1;Exodus from the Pale Sea;06/05/2025;;August 30th
+Rose Salt;5;Female;Iberia;Medic Multi-target;1675;330;151;0;19;1;Exodus from the Pale Sea;06/05/2025;;March 30th
+Vulpisfoglia;6;Female;Siracusa;Vanguard Pioneer;2030;562;380;0;14;2;I Portatori dei Velluti;4/24/2025;;September 8th
+Crownslayer;6;Female;Rhodes Island;Specialist Executor;1695;545;325;0;12;1;I Portatori dei Velluti;4/24/2025;;July 22nd
+Lappland the Decadenza;6;Female;Siracusa;Caster Mech-Accord;1503;342;117;20;22;1;I Portatori dei Velluti;4/24/2025;Limited;November 11th
+Figurino;5;Male;Siracusa;Specialist Merchant;2393;741;391;0;8;1;I Portatori dei Velluti;4/24/2025;;January 21st
+Philae;5;Female;Sargon;Defender Primal Protector;3227;603;544;10;25;3;I Portatori dei Velluti;4/24/2025;;May 29th
+Contrail;4;Female;Columbia;Specialist Skyranger;2255;692;393;0;16;2;I Portatori dei Velluti;4/24/2025;;March 16th
+Vina Victoria;6;Female;Victoria;Guard Arts Fighter;2895;745;420;15;21;1;Ending a Grand Overture;04/08/2025;;July 10th
+Bobbing;5;Male;Columbia;Supporter Ritualist;1305;446;68;15;15;1;Ending a Grand Overture;04/08/2025;;March 11th
+Catherine;5;Female;Victoria;Supporter Artificer;2680;550;420;0;20;2;Ending a Grand Overture;04/08/2025;;August 28th
+Marcille;6;Female;Laios's Party;Caster Splash;1805;914;130;20;34;1;Delicious On Terra;03/10/2025;Limited;April 19th
+Senshi;5;Male;Laios's Party;Defender Guardian;2770;470;580;10;23;3;Delicious On Terra;03/10/2025;;October 2nd
+Chilchuck;5;Male;Laios's Party;Vanguard Agent;1880;560;277;0;10;1;Delicious On Terra;03/10/2025;Limited;May 18th
+Laios;5;Male;Laios's Party;Guard Dreadnought;3688;900;256;0;18;1;Delicious On Terra;03/10/2025;Limited;November 26th
+Nymph;6;Female;Rhodes Island;Caster Primal;1650;655;129;15;21;1;A Kazdelian Rescue;02/07/2025;;August 31st
+Mitm;5;Male;Rhodes Island;Vanguard Tactician;1370;495;122;0;14;1;A Kazdelian Rescue;02/07/2025;;September 19th
+Narantuya;6;Female;Sargon;Sniper Loopshooter;2500;675;170;0;16;1;Adventure That Cannot Wait for the Sun;1/16/2025;;May 26th
+Pepe;6;Female;Sargon;Guard Earthshaker;2851;1290;387;0;20;2;Adventure That Cannot Wait for the Sun;1/16/2025;Limited;June 12th
+Sand Reckoner;5;Male;Sargon;Supporter Summoner;1031;450;160;20;11;1;Adventure That Cannot Wait for the Sun;1/16/2025;;June 15th
+Papyrus;5;Female;Sargon;Medic Chain;1715;440;160;0;20;1;Adventure That Cannot Wait for the Sun;1/16/2025;;July 12th
+Ulpianus;6;Male;Abyssal Hunters;Guard Crusher;6022;1569;0;0;24;2;Path of Life;12/03/2024;;April 13th
+Lucilla;5;Female;Aegir;Supporter Hexer;1625;440;103;25;12;1;Path of Life;12/03/2024;;November 3rd
+Underflow;5;Female;Aegir;Defender Sentry Protector;3253;439;696;0;24;3;Path of Life;12/03/2024;;August 1st
+Wis'adel;6;Female;Babel;Sniper Flinger;1888;687;256;15;25;1;Absolved Will Be the Seekers;10/31/2024;Limited;Claims to have forgotten
+Civilight Eterna;6;Female;Rhodes Island;Supporter Bard;1628;369;226;0;10;1;Absolved Will Be the Seekers;10/31/2024;;July 11th
+Logos;6;Male;Elite Op;Caster Core;1663;671;119;20;21;1;Absolved Will Be the Seekers;10/31/2024;;September 5th
+Amiya (Medic);5;Female;Rhodes Island;Medic Incantation;1416;532;106;20;17;1;Absolved Will Be the Seekers;10/31/2024;;
+Fang the Fire-Sharpened;5;Female;Rhodes Island;Vanguard Charger;2226;570;360;0;12;1;Absolved Will Be the Seekers;10/31/2024;;December 2nd
+PhonoR-0;1;Female;Rhodes Island;Supporter Ritualist;395;205;30;5;3;1;Absolved Will Be the Seekers;10/31/2024;;September 2nd
+Ascalon;6;Female;S.W.E.E.P.;Specialist Ambusher;1623;954;333;30;21;0;Babel (event);10/10/2024;;Unknown
+Aroma;5;Female;Siracusa;Caster Blast;1591;760;115;20;33;1;Babel (event);10/10/2024;;August 1st
+Odda;5;Male;Rhodes Island;Guard Earthshaker;2593;1190;337;0;21;2;Babel (event);10/10/2024;;January 1st
+Lutonada;4;Female;Bolivar;Defender Juggernaut;3550;790;495;10;34;3;Babel (event);10/10/2024;;Reported as Unknown
+Ela;6;Female;Team Rainbow;Specialist Trapmaster;1468;588;173;0;12;1;Operation Lucent Arrowhead;09/05/2024;Limited;November 8th
+Doc;5;Male;Team Rainbow;Guard Instructor;2217;657;360;0;16;2;Operation Lucent Arrowhead;09/05/2024;Limited;September 16th
+Fuze;5;Male;Team Rainbow;Guard Centurion;2660;795;290;0;25;3;Operation Lucent Arrowhead;09/05/2024;;October 12th
+Iana;5;Female;Team Rainbow;Specialist Dollkeeper;2436;708;291;0;15;2;Operation Lucent Arrowhead;09/05/2024;Limited;August 27th
+Zuo Le;6;Male;Yan;Guard Soloblade;3858;780;315;0;26;1;Here A People Sows;7/31/2024;;April 30th
+Shu;6;Female;Sui;Defender Guardian;3213;479;602;10;22;3;Here A People Sows;7/31/2024;Limited;June 6th
+Grain Buds;5;Female;Yan;Supporter Decel Binder;1260;525;100;20;15;1;Here A People Sows;7/31/2024;;May 21st
+Wanqing;5;Male;Yan;Vanguard Standard Bearer;1516;514;380;0;13;1;Here A People Sows;7/31/2024;;May 6th
+Ray;6;Female;Rim Billiton;Sniper Hunter;1933;1072;228;0;21;1;To the Grinning Valley;07/09/2024;;July 14th
+Warmy;5;Female;Rim Billiton;Caster Primal;1358;581;106;15;20;1;To the Grinning Valley;07/09/2024;;December 17th
+Degenbrecher;6;Female;Karlan Trade;Guard Swordmaster;2891;635;339;0;23;2;The Rides to Lake Silberneherze;6/21/2024;;June 6th
+Harold;5;Male;Victoria;Medic Wandering;1400;385;100;10;17;1;The Rides to Lake Silberneherze;6/21/2024;;September 21st
+Leto;5;Female;Ursus Student Self-Governing Group;Guard Lord;2280;680;375;10;19;2;The Rides to Lake Silberneherze;6/21/2024;;March 30th
+Lessing;6;Male;Leithanien;Guard Dreadnought;3682;1044;277;0;21;1;Zwillingst�rme im Herbst;4/30/2024;;July 17th
+Viviana;6;Female;Leithanien;Guard Arts Fighter;2920;646;447;15;21;1;Zwillingst�rme im Herbst;4/30/2024;;July 21st
+Virtuosa;6;Female;Laterano;Supporter Ritualist;1201;485;109;15;16;1;Zwillingst�rme im Herbst;4/30/2024;Limited;September 23rd
+Diamante;5;Male;Leithanien;Caster Primal;1309;578;111;15;20;1;Zwillingst�rme im Herbst;4/30/2024;;January 7th
+Bassline;5;Male;Leithanien;Defender Guardian;2770;473;570;10;21;3;Zwillingst�rme im Herbst;4/30/2024;;July 16th
+Caper;4;Female;Bolivar;Sniper Loopshooter;2200;600;160;0;14;1;Zwillingst�rme im Herbst;4/30/2024;;January 20th
+Hoederer;6;Male;Babel;Guard Crusher;5988;1578;0;0;24;2;The Whirlpool that is Passion;4/16/2024;;April 22nd
+Delphine;5;Female;Victoria;Caster Mystic;1532;1240;128;20;26;1;The Whirlpool that is Passion;4/16/2024;;November 2nd
+Vendela;5;Female;Victoria;Medic Incantation;1370;550;100;20;17;1;The Whirlpool that is Passion;4/16/2024;;May 14th
+Verdant;4;Male;Victoria;Specialist Dollkeeper;2266;672;259;0;14;2;The Whirlpool that is Passion;4/16/2024;;April 12th
+Jessica the Liberated;6;Female;Blacksteel;Defender Sentry Protector;3608;522;716;0;23;3;Come Catastrophes or Wakes of Vultures;3/19/2024;;March 3rd
+Almond;5;Female;Blacksteel;Specialist Hookmaster;2130;695;410;0;13;2;Come Catastrophes or Wakes of Vultures;3/19/2024;;February 27th
+Coldshot;5;Female;Columbia;Sniper Hunter;1855;958;224;0;21;1;Come Catastrophes or Wakes of Vultures;3/19/2024;;July 26th, 1047
+Typhon;6;Female;Sami;Sniper Besieger;1702;1045;113;0;24;1;The Black Forest Wills A Dream;2/27/2024;;February 1st
+Santalla;5;Female;Sami;Caster Splash;1640;770;123;20;33;1;The Black Forest Wills A Dream;2/27/2024;;March 19th
+Eyjafjalla the Hvit Aska;6;Female;Leithanien;Medic Wandering;1439;424;109;10;16;1;So Long, Adele;1/16/2024;Limited;October 18th
+Swire the Elegant Wit;6;Female;Lungmen;Specialist Merchant;2360;810;457;0;9;1;So Long, Adele;1/16/2024;;July 1st
+Poncirus;5;Female;Siesta;Vanguard Pioneer;2215;455;360;0;13;2;So Long, Adele;1/16/2024;;November 21st
+Bryophyta;5;Male;Siesta;Guard Instructor;1900;650;421;0;18;2;So Long, Adele;1/16/2024;;September 29th
+Executor the Ex Foedere;6;Male;Laterano;Guard Reaper;2491;707;461;0;23;2;Hortus de Escapismo;12/21/2023;;July 7th
+Spuria;5;Female;Laterano;Specialist Geek;1893;662;138;10;12;1;Hortus de Escapismo;12/21/2023;;August 20th
+Insider;5;Male;Laterano;Sniper Marksman;1440;522;178;0;15;1;Hortus de Escapismo;12/21/2023;;November 14th
+Friston-3;1;Male;Rhodes Island;Defender Protector;1152;198;253;0;3;3;Pinch-Out Experimental Operation;12/05/2023;;November 13th
+Ho'olheyak;6;Female;Columbia;Caster Core;1770;633;130;20;21;1;Lone Trail;11/07/2023;;July 12th
+Silence the Paradigmatic;6;Female;Rhine Lab;Supporter Abjurer;1927;467;184;25;15;1;Lone Trail;11/07/2023;;May 18th
+Muelsyse;6;Female;Rhine Lab;Vanguard Tactician;1813;497;117;0;15;1;Lone Trail;11/07/2023;Limited;November 3rd
+Melanite;5;Female;Columbia;Sniper Heavyshooter;1664;792;210;0;19;1;Lone Trail;11/07/2023;;March 15th
+Ines;6;Female;Babel;Vanguard Agent;2121;589;281;0;11;1;All Quiet Under the Thunder;10/24/2023;;February 19th
+Cement;5;Female;Rim Billiton;Defender Duelist;3642;1002;628;0;32;1;All Quiet Under the Thunder;10/24/2023;;October 25th
+Morgan;5;Female;Glasgow;Guard Dreadnought;3810;905;243;0;20;1;All Quiet Under the Thunder;10/24/2023;;May 14th
+Humus;4;Male;Rhodes Island;Guard Reaper;2150;616;403;0;21;2;All Quiet Under the Thunder;10/24/2023;;February 20th
+Kirin R Yato;6;Female;Op A4;Specialist Executor;1629;565;318;0;10;1;A Flurry to the Flame;09/07/2023;Limited;May 14th
+Rathalos S Noir Corne;5;Male;Op A4;Guard Soloblade;3518;726;351;0;25;1;A Flurry to the Flame;09/07/2023;Limited;August 30th
+Terra Research Commission;1;Unknown;Rhodes Island;Sniper Flinger;518;276;51;0;3;1;A Flurry to the Flame;09/07/2023;;Unknown
+Qiubai;6;Female;Yan;Guard Lord;2480;718;402;10;20;2;A Death in Chunfen;8/22/2023;;May 14th
+Wind Chimes;5;Female;Yan;Guard Crusher;5669;1439;0;0;23;2;A Death in Chunfen;8/22/2023;;April 7th
+Lin;6;Female;Lungmen;Caster Phalanx;2048;849;242;15;24;1;Where Vernal Winds Will Never Blow;7/28/2023;;November 9th
+Chongyue;6;Male;Sui;Guard Fighter;2635;590;363;0;11;1;Where Vernal Winds Will Never Blow;7/28/2023;Limited;January 1st
+Jieyun;5;Female;Yan;Sniper Artilleryman;1650;835;115;0;30;1;Where Vernal Winds Will Never Blow;7/28/2023;;July 6th
+Firewhistle;5;Female;Rim Billiton;Defender Fortress;2983;883;568;0;27;1;Where Vernal Winds Will Never Blow;7/28/2023;;May 6th
+Reed the Flame Shadow;6;Female;Tara;Medic Incantation;1583;550;84;20;17;1;What the Firelight Casts;7/13/2023;;October 16th
+Puzzle;5;Male;Victoria;Vanguard Agent;1860;566;244;0;12;1;What the Firelight Casts;7/13/2023;;December 5th
+Harmonie;5;Female;Tara;Caster Mystic;1546;1245;125;20;24;1;What the Firelight Casts;7/13/2023;;May 13th
+Vigil;6;Male;Siracusa;Vanguard Tactician;1755;642;154;0;17;1;Il Siracusano;5/23/2023;;January 15th
+Penance;6;Female;Siracusa;Defender Juggernaut;4055;876;616;10;36;3;Il Siracusano;5/23/2023;;July 9th
+Texas the Omertosa;6;Female;Penguin Logistics;Specialist Executor;1598;569;320;0;10;1;Il Siracusano;5/23/2023;Limited;June 1st
+Lunacub;5;Female;Siracusa;Sniper Deadeye;1536;1034;155;0;21;1;Il Siracusano;5/23/2023;;October 3rd
+Qanipalaat;5;Male;Sami;Caster Core;1500;625;119;20;20;1;Il Siracusano;5/23/2023;;December 12th
+Quartz;4;Female;Columbia;Guard Crusher;5432;1387;0;0;22;2;Il Siracusano;5/23/2023;;August 13th
+Stainless;6;Male;Victoria;Supporter Artificer;2773;593;421;0;19;2;Return to Mist;4/27/2023;;April 11th
+Dagda;5;Female;Glasgow;Guard Fighter;2506;574;310;0;12;1;Return to Mist;4/27/2023;;July 9th
+Paprika;5;Female;Rhodes Island;Medic Chain;1666;439;171;0;18;1;Return to Mist;4/27/2023;;March 13th
+Totter;4;Male;Sargon;Sniper Besieger;1550;920;105;0;22;1;Return to Mist;4/27/2023;;June 21st
+Luo Xiaohei;4;Male;Yan;Guard Lord;2040;698;325;10;17;2;It's Been A While;04/07/2023;;November 1st
+Mynar;6;Male;Kazimierz;Guard Liberator;3906;355;502;15;12;3;An Obscure Wanderer;3/31/2023;;December 3rd
+Proviso;5;Female;Kazimierz;Supporter Decel Binder;1298;513;102;20;15;1;An Obscure Wanderer;3/31/2023;;October 30th
+Dorothy;6;Female;Rhine Lab;Specialist Trapmaster;1502;581;172;0;12;1;Dorothy's Vision;3/14/2023;;May 8th
+Astgenne;5;Female;Rhine Lab;Caster Chain;1440;630;122;20;34;1;Dorothy's Vision;3/14/2023;;July 10th
+Greyy the Lightningbearer;5;Male;Rhodes Island;Sniper Flinger;1730;628;240;15;24;1;Dorothy's Vision;3/14/2023;;June 6th
+Pozemka;6;Female;Rhodes Island;Sniper Heavyshooter;1802;876;193;0;20;1;Ideal City;1/13/2023;;March 15th
+Gavial the Invincible;6;Female;Rhodes Island;Guard Centurion;2906;766;391;0;24;3;Ideal City;1/13/2023;Limited;May 1st
+Cantabile;5;Female;Rhodes Island;Vanguard Agent;1917;560;267;0;10;1;Ideal City;1/13/2023;;April 7th
+Minimalist;5;Male;Sargon;Caster Mech-Accord;1400;320;120;20;23;1;Ideal City;1/13/2023;;April 20th
+Ebenholz;6;Male;Leithanien;Caster Mystic;1678;1400;135;20;25;1;Lingering Echoes;12/27/2022;;June 5th
+Hibiscus the Purifier;5;Female;Rhodes Island;Medic Incantation;1508;511;109;20;17;1;Lingering Echoes;12/27/2022;;June 21st
+Czerny;5;Male;Leithanien;Defender Arts Protector;3122;625;577;15;27;3;Lingering Echoes;12/27/2022;;September 10th
+Irene;6;Female;Iberia;Guard Swordmaster;2935;621;349;0;23;2;Stultifera Navis;11/03/2022;;January 3rd
+Specter the Unchained;6;Female;Abyssal Hunters;Specialist Dollkeeper;2803;737;322;0;16;2;Stultifera Navis;11/03/2022;Limited;July 27th
+Lumen;6;Male;Iberia;Medic Therapist;1825;540;111;10;23;1;Stultifera Navis;11/03/2022;;June 12th
+Windflit;5;Male;Columbia;Supporter Artificer;2600;535;425;0;18;2;Stultifera Navis;11/03/2022;;February 2nd
+Horn;6;Female;Victoria;Defender Fortress;3067;936;620;0;28;3;Shatterpoint;10/19/2022;;November 1st
+Rockrock;5;Female;Victoria;Caster Mech-Accord;1468;320;123;20;21;1;Shatterpoint;10/19/2022;;June 7th
+Heidi;5;Female;Victoria;Supporter Bard;1260;320;268;0;9;1;Shatterpoint;10/19/2022;;March 26th
+Chestnut;4;Male;Rhodes Island;Medic Wandering;1137;389;101;10;14;1;Shatterpoint;10/19/2022;;March 15th
+Fiammetta;6;Female;Laterano;Sniper Artilleryman;1926;861;156;0;29;1;Guide Ahead;9/16/2022;;April 3rd
+Enforcer;5;Male;Laterano;Specialist Push Stroker;1937;653;381;0;22;2;Guide Ahead;9/16/2022;;January 30th
+Kazemaru;5;Female;Higashi;Specialist Dollkeeper;2372;692;318;0;15;2;Guide Ahead;9/16/2022;;December 29th
+Goldenglow;6;Female;Victoria;Caster Mech-Accord;1480;331;125;20;22;1;A Light Spark in Darkness;8/18/2022;;January 7th
+Quercus;5;Female;Rhodes Island;Supporter Abjurer;1680;463;172;25;12;1;A Light Spark in Darkness;8/18/2022;;December 22nd
+Lee;6;Male;Lee's Detective Agency;Specialist Merchant;2421;789;465;0;9;1;Invitation to Wine;7/29/2022;;October 25th
+Ling;6;Female;Sui;Supporter Summoner;1079;473;138;20;12;1;Invitation to Wine;7/29/2022;Limited;March 3rd
+Kroos the Keen Glint;5;Female;Rhodes Island;Sniper Marksman;1520;502;176;0;15;1;Invitation to Wine;7/29/2022;;November 22nd
+Blacknight;5;Female;Rim Billiton;Vanguard Tactician;1625;442;133;0;14;1;Invitation to Wine;7/29/2022;;November 2nd
+Nine-Colored Deer;5;Female;Yan;Supporter Abjurer;1685;443;179;25;11;1;Display of Auspices;7/14/2022;;December 8th
+Gnosis;6;Male;Karlan Trade;Supporter Hexer;2035;455;132;25;13;1;Break the Ice;6/30/2022;;December 11th
+Kjera;5;Female;Karlan Trade;Caster Mech-Accord;1475;294;121;20;23;1;Break the Ice;6/30/2022;;December 5th
+Aurora;5;Female;Karlan Trade;Defender Duelist;4027;901;640;0;32;1;Break the Ice;6/30/2022;;December 20th
+Flametail;6;Female;Pinus Sylvestris;Vanguard Pioneer;2138;526;392;0;14;2;Near Light;4/28/2022;;October 8th
+Nearl the Radiant Knight;6;Female;Kazimierz;Guard Dreadnought;3550;1064;295;0;19;1;Near Light;4/28/2022;Limited;April 23rd
+Wild Mane;5;Female;Pinus Sylvestris;Vanguard Charger;2225;558;372;0;14;1;Near Light;4/28/2022;;August 3rd
+Corroserum;5;Male;Columbia;Caster Blast;1572;760;120;20;33;1;Near Light;4/28/2022;;April 7th
+Honeyberry;5;Female;Rim Billiton;Medic Wandering;1458;375;107;10;15;1;Near Light;4/28/2022;;March 20th
+Pudding;4;Female;Columbia;Caster Chain;1326;542;108;20;31;1;Near Light;4/28/2022;;December 21st
+Justice Knight;1;;Pinus Sylvestris;Sniper Marksman;495;172;41;0;3;1;Near Light;4/28/2022;;
+Fartooth;6;Female;Pinus Sylvestris;Sniper Deadeye;1522;1196;163;0;22;1;Pinus Sylvestris (event);4/14/2022;;October 10th
+Ashlock;5;Female;Pinus Sylvestris;Defender Fortress;3207;865;541;0;27;3;Pinus Sylvestris (event);4/14/2022;;March 20th
+Saileach;6;Female;Victoria;Vanguard Standard Bearer;1835;546;367;0;12;1;Stormwatch;3/17/2022;;May 31st
+Mulberry;5;Female;Yan;Medic Wandering;1367;388;99;10;15;1;Stormwatch;3/17/2022;;June 26th
+Roberta;4;Female;Columbia;Supporter Artificer;2470;535;415;0;15;2;Stormwatch;3/17/2022;;May 10th
+Mizuki;6;Male;Higashi;Specialist Ambusher;1758;865;356;30;21;0;Dossoles Holiday;1/14/2022;;March 22nd
+Ch'en the Holungday;6;Female;Rhodes Island;Sniper Spreadshooter;2501;773;203;0;32;1;Dossoles Holiday;1/14/2022;Limited;July 7th
+La Pluma;5;Female;Bolivar;Guard Reaper;2250;650;452;0;22;2;Dossoles Holiday;1/14/2022;;August 29th
+Tequila;5;Male;Bolivar;Guard Liberator;3757;302;501;15;13;3;Dossoles Holiday;1/14/2022;;May 15th
+Pallas;6;Female;Minos;Guard Instructor;1963;687;455;0;17;2;Interlocking Competition Hymnoi Wisdom;12/29/2021;;February 8th
+Carnelian;6;Female;Leithanien;Caster Phalanx;2106;846;228;15;24;1;Preluding Lights;12/09/2021;;January 17th
+Bena;5;Female;Victoria;Specialist Dollkeeper;2435;682;315;0;17;2;Preluding Lights;12/09/2021;;April 3rd
+Kirara;5;Female;Higashi;Specialist Ambusher;1780;798;340;30;20;0;Preluding Lights;12/09/2021;;November 29th
+Indigo;4;Female;Iberia;Caster Mystic;1435;1116;117;20;23;1;Preluding Lights;12/09/2021;;September 30th
+Kal'tsit;6;Female;Rhodes Island;Medic Medic;1633;490;215;0;20;1;Under Tides;10/21/2021;;Undisclosed
+Gladiia;6;Female;Abyssal Hunters;Specialist Hookmaster;2309;801;331;0;16;2;Under Tides;10/21/2021;;November 6th
+Skadi the Corrupting Heart;6;Female;Aegir;Supporter Bard;1603;368;233;0;8;1;Under Tides;10/21/2021;Limited;March 7th
+Akafuyu;5;Female;Higashi;Guard Soloblade;3635;728;328;0;25;1;Under Tides;10/21/2021;;March 27th
+Passenger;6;Male;Sargon;Caster Chain;1558;689;130;20;33;1;A Walk in the Dust;9/30/2021;;September 1st
+Heavyrain;5;Female;Rhodes Island;Defender Protector;3380;378;721;0;24;3;A Walk in the Dust;9/30/2021;;March 3rd
+Toddifons;5;Female;Victoria;Sniper Besieger;1667;954;123;0;23;1;A Walk in the Dust;9/30/2021;;July 31st
+Ash;6;Female;Team Rainbow;Sniper Marksman;1689;534;169;0;14;1;Operation Originium Dust;8/18/2021;Limited;December 24th
+Frost;5;Female;Team Rainbow;Specialist Trapmaster;1359;529;157;0;11;1;Operation Originium Dust;8/18/2021;Limited;May 4th
+Blitz;5;Male;Team Rainbow;Defender Sentry Protector;3213;445;676;0;22;3;Operation Originium Dust;8/18/2021;Limited;April 2nd
+Tachanka;5;Male;Team Rainbow;Guard Swordmaster;2626;621;309;0;24;2;Operation Originium Dust;8/18/2021;;November 3rd
+Saga;6;Female;Higashi;Vanguard Pioneer;2205;530;372;0;14;2;Who is Real;7/30/2021;;December 31st
+Dusk;6;Female;Sui;Caster Splash;1801;918;127;20;34;1;Who is Real;7/30/2021;Limited;November 11th
+Mr. Nothing;5;Male;Yan;Specialist Merchant;2398;725;396;0;8;1;Who is Real;7/30/2021;;January 13th
+Lava the Purgatory;5;Female;Rhodes Island;Caster Splash;1543;798;115;20;35;1;Who is Real;7/30/2021;;June 22nd
+Archetto;6;Female;Laterano;Sniper Marksman;1705;528;172;0;14;1;Beyond Here;07/06/2021;;November 16th
+Iris;5;Female;Victoria;Caster Mystic;1535;1259;125;20;24;1;Beyond Here;07/06/2021;;April 2nd
+Beanstalk;4;Female;Columbia;Vanguard Tactician;1569;405;125;0;13;1;Beyond Here;07/06/2021;;March 10th
+Mountain;6;Male;Columbia;Guard Fighter;2745;587;357;0;11;1;Mansfield Break;6/22/2021;;July 16th
+Kafka;5;Female;Columbia;Specialist Executor;1675;525;311;0;9;1;Mansfield Break;6/22/2021;;December 1st
+Robin;5;Female;Columbia;Specialist Trapmaster;1442;513;166;0;13;1;Mansfield Break;6/22/2021;;May 18th
+Pinecone;4;Female;Columbia;Sniper Spreadshooter;2200;667;167;0;30;1;Mansfield Break;6/22/2021;;March 12th
+Purestream;4;Female;Yan;Medic Therapist;1365;454;118;10;19;1;Coexistence;5/19/2021;;October 24th
+Rosmontis;6;Female;Elite Op;Sniper Flinger;1944;688;245;15;25;1;Fan Appreciation Event;4/30/2021;Limited;July 6th
+Mudrock;6;Female;Rhodes Island;Defender Juggernaut;3928;882;602;10;36;3;Fan Appreciation Event;4/30/2021;;September 21st
+Amiya (Guard);5;Female;Rhodes Island;Guard Arts Fighter;2629;657;376;20;20;1;Fan Appreciation Event;4/30/2021;;
+Whisperain;5;Female;Iberia;Medic Therapist;1432;492;119;10;20;1;Fan Appreciation Event;4/30/2021;;March 6th
+Jackie;4;Female;Columbia;Guard Fighter;2278;529;308;0;9;1;Fan Appreciation Event;4/30/2021;;September 15th
+Blemishine;6;Female;Kazimierz;Defender Guardian;3242;491;581;10;22;3;Maria Nearl;04/08/2021;;July 15th
+Aosta;5;Male;Chiave's Gang;Sniper Spreadshooter;2376;691;192;0;31;1;Maria Nearl;04/08/2021;;May 9th
+Whislash;5;Female;Kazimierz;Guard Instructor;1932;645;420;0;18;2;Maria Nearl;04/08/2021;;June 28th
+Bubble;4;Female;Sargon;Defender Protector;3416;370;645;0;21;3;Maria Nearl;04/08/2021;;March 19th
+Surtr;6;Female;Rhodes Island;Guard Arts Fighter;2916;672;414;15;21;1;Rewinding Breeze;3/25/2021;;January 22nd
+Mint;5;Female;Victoria;Caster Phalanx;1945;732;196;15;25;1;Rewinding Breeze;3/25/2021;;February 5th
+April;5;Female;Rim Billiton;Sniper Marksman;1280;528;160;0;13;1;Rewinding Breeze;3/25/2021;;January 27th
+Arene;4;Male;Laterano;Guard Lord;2250;640;340;10;18;2;Rewinding Breeze;3/25/2021;;September 7th
+Eunectes;6;Female;Sargon;Defender Duelist;4468;1007;615;0;33;1;The Great Chief Returns;2/25/2021;;October 30th
+Tomimi;5;Female;Sargon;Caster Core;1920;600;119;20;22;1;The Great Chief Returns;2/25/2021;;February 2nd
+Flint;5;Female;Sargon;Guard Fighter;2495;545;334;0;10;1;The Great Chief Returns;2/25/2021;;September 17th
+Aciddrop;4;Female;Columbia;Sniper Heavyshooter;1576;735;209;0;18;1;The Great Chief Returns;2/25/2021;;August 13th
+Thorns;6;Male;Iberia;Guard Lord;2612;711;402;10;20;2;Heart of Surging Flame/Rerun;1/20/2021;;March 17th
+Andreana;5;Female;Abyssal Hunters;Sniper Deadeye;1498;1070;128;0;21;1;Heart of Surging Flame/Rerun;1/20/2021;;November 16th
+Jaye;4;Male;Lungmen;Specialist Merchant;2284;674;378;0;7;1;Heart of Surging Flame/Rerun;1/20/2021;;September 17th
+W;6;Female;Babel;Sniper Artilleryman;1605;912;133;0;29;1;1st Anniversary Celebration;12/30/2020;Limited;Claims to have forgotten
+Weedy;6;Female;Rhodes Island;Specialist Push Stroker;2133;677;394;0;21;2;1st Anniversary Celebration;12/30/2020;;January 23rd
+Elysium;5;Male;Rhodes Island;Vanguard Standard Bearer;1669;533;335;0;11;1;1st Anniversary Celebration;12/30/2020;;May 8th
+THRM-EX;1;Male;Rhodes Island;Specialist Executor;1443;260;443;50;3;0;1st Anniversary Celebration;12/30/2020;;February 15th
+Phantom;6;Male;Victoria;Specialist Executor;1645;558;322;0;10;1;Darknights Memoir;12/10/2020;;January 19th
+Sideroca;5;Female;Minos;Guard Arts Fighter;2845;620;369;15;23;1;Darknights Memoir;12/10/2020;;March 17th
+Shamare;5;Female;Siracusa;Supporter Hexer;1728;408;105;25;12;1;Darknights Memoir;12/10/2020;;October 29th
+Cutter;4;Female;Columbia;Guard Swordmaster;2320;571;325;0;21;2;Darknights Memoir;12/10/2020;;May 2nd
+Chiave;5;Male;Chiave's Gang;Vanguard Pioneer;1824;522;342;0;13;2;Grani and the Knights' Treasure/Rerun;11/26/2020;;September 9th
+Beeswax;5;Female;Sargon;Caster Phalanx;2005;735;205;15;23;1;Grani and the Knights' Treasure/Rerun;11/26/2020;;September 15th
+Suzuran;6;Female;Siracusa;Supporter Decel Binder;1480;521;128;25;16;1;Twilight of Wolumonde;10/28/2020;;October 9th
+Folinic;5;Female;Rhodes Island;Medic Medic;1585;479;133;0;21;1;Twilight of Wolumonde;10/28/2020;;August 18th
+Ayerscarpe;5;Male;Rim Billiton;Guard Lord;2420;670;375;10;19;2;Twilight of Wolumonde;10/28/2020;;October 25th
+Click;4;Female;Rhodes Island;Caster Mech-Accord;1440;315;120;20;20;1;Twilight of Wolumonde;10/28/2020;;09-May
+Rosa;6;Female;Ursus Student Self-Governing Group;Sniper Besieger;1755;1032;122;0;24;1;Children of Ursus;9/29/2020;;October 31st
+Leonhardt;5;Male;Rim Billiton;Caster Splash;1637;773;120;20;33;1;Children of Ursus;9/29/2020;;August 13th
+Absinthe;5;Female;Ursus;Caster Core;1420;633;124;20;22;1;Children of Ursus;9/29/2020;;November 10th
+Podenco;4;Female;Rhodes Island;Supporter Decel Binder;1163;492;96;20;14;1;Children of Ursus;9/29/2020;;March 25th
+Ceobe;6;Female;Rhodes Island;Caster Core;1565;667;128;20;21;1;Stories of Afternoon;8/26/2020;;March 3rd
+Leizi;5;Female;Yan;Caster Chain;1443;635;119;20;32;1;Stories of Afternoon;8/26/2020;;March 5th
+Nian;6;Female;Sui;Defender Protector;3699;619;726;0;23;3;Ancient Forge;7/29/2020;Limited;September 9th
+Aak;6;Male;Lee's Detective Agency;Specialist Geek;2034;703;152;10;13;1;Ancient Forge;7/29/2020;;March 25th
+Snowsant;5;Female;Lungmen;Specialist Hookmaster;1835;745;355;0;15;2;Ancient Forge;7/29/2020;;October 17th
+Hung;5;Male;Lee's Detective Agency;Defender Guardian;2823;442;585;10;21;3;Ancient Forge;7/29/2020;;July 1st
+Blaze;6;Female;Elite Op;Guard Centurion;2821;765;370;0;24;3;Partial Necrosis;6/30/2020;;Undisclosed
+GreyThroat;5;Female;Rhodes Island;Sniper Marksman;1493;513;152;0;13;1;Partial Necrosis;6/30/2020;;November 14th
+Ambriel;4;Female;Laterano;Sniper Deadeye;1595;977;122;0;20;1;Partial Necrosis;6/30/2020;;January 13th
+Mostima;6;Female;Laterano;Caster Splash;1831;834;132;20;34;1;Code of Brawl;5/27/2020;;December 12th
+Waai Fu;5;Female;Lee's Detective Agency;Specialist Executor;1455;536;304;0;9;1;Code of Brawl;5/27/2020;;December 1st
+Bison;5;Male;Lungmen;Defender Protector;3456;375;701;0;24;3;Code of Brawl;5/27/2020;;October 15th
+May;4;Female;Victoria;Sniper Marksman;1632;478;105;0;12;1;Code of Brawl;5/27/2020;;May 1st
+Schwarz;6;Female;Siesta;Sniper Heavyshooter;1833;840;225;0;20;1;Heart of Surging Flame;4/15/2020;;Individual exhibits memory loss regarding this information
+Hellagur;6;Male;Ursus;Guard Soloblade;3825;762;334;0;26;1;Heart of Surging Flame;4/15/2020;;May 5th
+Ceylon;5;Female;Siesta;Medic Therapist;1455;468;126;10;22;1;Heart of Surging Flame;4/15/2020;;September 25th
+Glaucus;5;Female;Iberia;Supporter Decel Binder;1267;505;100;20;15;1;Heart of Surging Flame;4/15/2020;;July 27th
+Sussurro;4;Female;Rhodes Island;Medic Medic;1345;488;122;0;18;1;Heart of Surging Flame;4/15/2020;;September 4th
+Magallan;6;Female;Rhine Lab;Supporter Summoner;1103;469;140;20;12;1;Operational Intelligence;3/25/2020;;October 17th
+Flamebringer;5;Male;Rhodes Island;Guard Dreadnought;3907;918;195;0;20;1;Operational Intelligence;3/25/2020;;December 25th
+Executor;5;Male;Laterano;Sniper Spreadshooter;2330;720;185;0;31;1;Operational Intelligence;3/25/2020;;July 7th
+Vermeil;4;Female;Siracusa;Sniper Marksman;1230;485;162;0;12;1;Operational Intelligence;3/25/2020;;June 25th
+Ch'en;6;Female;Lungmen Guard Department;Guard Swordmaster;2880;610;352;0;23;2;Necessary Solutions;2/26/2020;;July 7th
+Swire;5;Female;Lungmen Guard Department;Guard Instructor;1914;656;413;0;16;2;Necessary Solutions;2/26/2020;;July 1st
+Greyy;4;Male;Bolivar;Caster Splash;1537;699;130;20;32;1;Necessary Solutions;2/26/2020;;June 6th
+Spot;3;Male;Op Reserve A6;Defender Guardian;1833;320;442;10;17;3;Necessary Solutions;2/26/2020;;April 30th
+Skadi;6;Female;Abyssal Hunters;Guard Dreadnought;3866;1016;263;0;19;1;Grani and the Knights' Treasure;02/05/2020;;March 7th
+Grani;5;Female;Victoria;Vanguard Charger;2235;552;367;0;14;1;Grani and the Knights' Treasure;02/05/2020;;December 1st
+Nightmare;5;Female;Victoria;Caster Core;1510;622;120;20;20;1;Grani and the Knights' Treasure;02/05/2020;;June 1st
+Beehunter;4;Female;Ursus;Guard Fighter;2435;513;312;0;9;1;Grani and the Knights' Treasure;02/05/2020;;October 2nd
+Midnight;3;Male;Op Reserve A6;Guard Lord;1653;497;282;10;16;2;Grani and the Knights' Treasure;02/05/2020;;May 20th
+Saria;6;Female;Rhine Lab;Defender Guardian;3150;485;595;10;22;3;Opening Event;1/16/2020;;April 23rd
+SilverAsh;6;Male;Karlan Trade;Guard Lord;2560;713;397;10;20;2;Opening Event;1/16/2020;;February 15th
+Hoshiguma;6;Female;Lungmen Guard Department;Defender Protector;3850;430;723;0;23;3;Opening Event;1/16/2020;;January 20th
+Ifrit;6;Female;Rhine Lab;Caster Blast;1680;870;130;20;34;1;Opening Event;1/16/2020;;July 22nd
+Shining;6;Female;Followers;Medic Medic;1613;530;138;0;20;1;Opening Event;1/16/2020;;October 7th
+Eyjafjalla;6;Female;Leithanien;Caster Core;1743;645;122;20;21;1;Opening Event;1/16/2020;;October 18th
+Nightingale;6;Female;Followers;Medic Multi-target;1705;350;169;5;18;1;Opening Event;1/16/2020;;May 4th
+Exusiai;6;Female;Penguin Logistics;Sniper Marksman;1673;540;161;0;14;1;Opening Event;1/16/2020;;December 24th
+Siege;6;Female;Glasgow;Vanguard Pioneer;2251;515;384;0;14;2;Opening Event;1/16/2020;;July 10th
+Angelina;6;Female;Siracusa;Supporter Decel Binder;1385;542;120;25;16;1;Opening Event;1/16/2020;;May 14th
+Silence;5;Female;Rhine Lab;Medic Medic;1595;482;142;0;19;1;Opening Event;1/16/2020;;May 18th
+Blue Poison;5;Female;Iberia;Sniper Marksman;1230;535;130;5;13;1;Opening Event;1/16/2020;;January 18th
+Ptilopsis;5;Female;Rhine Lab;Medic Multi-target;1610;335;150;0;17;1;Opening Event;1/16/2020;;October 6th
+Specter;5;Female;Abyssal Hunters;Guard Centurion;2630;725;355;0;23;3;Opening Event;1/16/2020;;July 27th
+Nearl;5;Female;Followers;Defender Guardian;2780;462;575;10;21;3;Opening Event;1/16/2020;;April 23rd
+Vulcan;5;Female;Minos;Defender Juggernaut;3688;820;585;10;35;3;Opening Event;1/16/2020;;April 30th
+Cliffheart;5;Female;Karlan Trade;Specialist Hookmaster;1970;765;340;0;13;2;Opening Event;1/16/2020;;November 28th
+Meteorite;5;Female;Rhodes Island;Sniper Artilleryman;1505;865;116;0;28;1;Opening Event;1/16/2020;;August 30th
+Indra;5;Female;Glasgow;Guard Fighter;2565;530;350;0;10;1;Opening Event;1/16/2020;;April 15th
+Warfarin;5;Female;Rhodes Island;Medic Medic;1520;505;125;0;19;1;Opening Event;1/16/2020;;June 27th
+Istina;5;Female;Ursus Student Self-Governing Group;Supporter Decel Binder;1280;518;104;20;15;1;Opening Event;1/16/2020;;September 22nd
+Lappland;5;Female;Siracusa;Guard Lord;2350;685;365;15;19;2;Opening Event;1/16/2020;;November 11th
+Texas;5;Female;Penguin Logistics;Vanguard Pioneer;1950;500;343;0;13;2;Opening Event;1/16/2020;;June 1st
+Liskarm;5;Female;Blacksteel;Defender Sentry Protector;3240;425;710;0;22;3;Opening Event;1/16/2020;;May 18th
+Manticore;5;Female;Sargon;Specialist Ambusher;1630;811;343;30;20;0;Opening Event;1/16/2020;;Unknown
+Mayer;5;Female;Rhine Lab;Supporter Summoner;1068;443;130;20;11;1;Opening Event;1/16/2020;;November 20th
+Amiya;5;Female;Rhodes Island;Caster Core;1480;618;121;20;20;1;Opening Event;1/16/2020;;December 23rd
+Croissant;5;Female;Penguin Logistics;Defender Protector;3520;380;710;0;22;3;Opening Event;1/16/2020;;September 29th
+Zima;5;Female;Ursus Student Self-Governing Group;Vanguard Pioneer;2150;470;350;0;13;2;Opening Event;1/16/2020;;July 29th
+Sora;5;Female;Penguin Logistics;Supporter Bard;1356;335;328;0;7;1;Opening Event;1/16/2020;;September 12th
+Skyfire;5;Female;Victoria;Caster Splash;1620;784;122;20;33;1;Opening Event;1/16/2020;;June 1st
+Savage;5;Female;Rim Billiton;Guard Centurion;2430;705;320;0;22;3;Opening Event;1/16/2020;;June 30th
+Platinum;5;Female;Kazimierz;Sniper Marksman;1550;505;165;0;13;1;Opening Event;1/16/2020;;February 13th
+Pramanix;5;Female;Karlan Trade;Supporter Hexer;1605;430;102;25;12;1;Opening Event;1/16/2020;;February 13th
+Projekt Red;5;Female;S.W.E.E.P.;Specialist Executor;1505;530;302;0;9;1;Opening Event;1/16/2020;;August 25th
+Provence;5;Female;Siracusa;Sniper Heavyshooter;1680;781;215;0;19;1;Opening Event;1/16/2020;;November 30th
+Franka;5;Female;Blacksteel;Guard Dreadnought;3768;936;235;0;18;2;Opening Event;1/16/2020;;October 30th
+FEater;5;Female;Lungmen;Specialist Push Stroker;1845;640;382;0;20;2;Opening Event;1/16/2020;;August 10th
+Firewatch;5;Female;Rhodes Island;Sniper Deadeye;1450;1085;131;0;21;1;Opening Event;1/16/2020;;Unknown
+Shirayuki;4;Female;Higashi;Sniper Artilleryman;1630;797;100;0;27;1;Opening Event;1/16/2020;;July 20th
+Estelle;4;Female;Sargon;Guard Centurion;2500;690;315;0;22;3;Opening Event;1/16/2020;;February 14th
+Matterhorn;4;Male;Karlan Trade;Defender Protector;3235;375;670;5;21;3;Opening Event;1/16/2020;;May 19th
+Meteor;4;Female;Kazimierz;Sniper Marksman;1370;465;165;0;12;1;Opening Event;1/16/2020;;May 1st
+Dobermann;4;Female;Rhodes Island;Guard Instructor;2024;602;382;0;15;2;Opening Event;1/16/2020;;May 27th
+Mousse;4;Female;Victoria;Guard Arts Fighter;2345;644;357;15;20;1;Opening Event;1/16/2020;;August 19th
+Matoimaru;4;Female;Higashi;Guard Dreadnought;3640;916;156;0;17;1;Opening Event;1/16/2020;;January 3rd
+Myrrh;4;Female;Rhodes Island;Medic Medic;1420;465;131;0;18;1;Opening Event;1/16/2020;;May 5th
+Vigna;4;Female;Columbia;Vanguard Charger;1845;558;351;0;11;1;Opening Event;1/16/2020;;December 12th
+Perfumer;4;Female;Rhodes Island;Medic Multi-target;1560;320;145;0;16;1;Opening Event;1/16/2020;;January 30th
+Courier;4;Male;Karlan Trade;Vanguard Pioneer;1985;435;322;0;12;2;Opening Event;1/16/2020;;March 5th
+Jessica;4;Female;Blacksteel;Sniper Marksman;1320;475;154;0;12;1;Opening Event;1/16/2020;;March 3rd
+Scavenger;4;Female;S.W.E.E.P.;Vanguard Pioneer;1835;470;310;0;12;2;Opening Event;1/16/2020;;August 22nd
+Earthspirit;4;Female;Leithanien;Supporter Decel Binder;1205;480;101;20;14;1;Opening Event;1/16/2020;;April 5th
+Rope;4;Female;Lungmen;Specialist Hookmaster;1720;728;325;0;12;2;Opening Event;1/16/2020;;April 4th
+Haze;4;Female;Victoria;Caster Core;1420;583;110;20;19;1;Opening Event;1/16/2020;;January 2nd
+Deepcolor;4;Female;Aegir;Supporter Summoner;1050;403;125;15;10;1;Opening Event;1/16/2020;;June 12th
+Cuora;4;Female;Columbia;Defender Protector;3105;365;690;0;21;3;Opening Event;1/16/2020;;Undisclosed
+Shaw;4;Female;Lungmen;Specialist Push Stroker;1785;580;365;0;19;2;Opening Event;1/16/2020;;January 5th
+Gitano;4;Female;Sami;Caster Splash;1598;715;118;20;32;1;Opening Event;1/16/2020;;January 15th
+Gravel;4;Female;Kazimierz;Specialist Executor;1420;452;335;0;8;1;Opening Event;1/16/2020;;January 20th
+Gummy;4;Female;Ursus Student Self-Governing Group;Defender Guardian;2550;435;562;10;20;3;Opening Event;1/16/2020;;October 2nd
+Frostleaf;4;Female;Rhodes Island;Guard Lord;2260;660;323;10;18;2;Opening Event;1/16/2020;;May 1st
+Gavial;4;Female;Rhodes Island;Medic Medic;1580;450;152;0;18;1;Opening Event;1/16/2020;;May 1st
+Hibiscus;3;Female;Op Reserve A1;Medic Medic;1220;345;110;0;17;1;Opening Event;1/16/2020;;June 21st
+Popukar;3;Female;Op Reserve A6;Guard Centurion;1858;495;245;0;19;2;Opening Event;1/16/2020;;July 2nd
+Beagle;3;Female;Op Reserve A1;Defender Protector;2035;295;490;0;18;3;Opening Event;1/16/2020;;March 2nd
+Adnachiel;3;Male;Op Reserve A4;Sniper Marksman;1080;365;134;0;11;1;Opening Event;1/16/2020;;May 30th
+Steward;3;Male;Op Reserve A4;Caster Core;1100;470;90;15;18;1;Opening Event;1/16/2020;;December 24th
+Plume;3;Female;Laterano;Vanguard Charger;1226;445;279;0;10;1;Opening Event;1/16/2020;;October 28th
+Vanilla;3;Female;Blacksteel;Vanguard Pioneer;1270;355;240;0;11;2;Opening Event;1/16/2020;;February 16th
+Orchid;3;Female;Op Reserve A6;Supporter Decel Binder;935;378;83;0;12;1;Opening Event;1/16/2020;;January 15th
+Cardigan;3;Female;Op Reserve A4;Defender Protector;2130;305;475;0;18;3;Opening Event;1/16/2020;;August 2nd
+Kroos;3;Female;Op Reserve A1;Sniper Marksman;1060;375;126;0;11;1;Opening Event;1/16/2020;;November 22nd
+Lava;3;Female;Op Reserve A1;Caster Splash;1141;582;95;15;30;1;Opening Event;1/16/2020;;June 22nd
+Ansel;3;Male;Op Reserve A4;Medic Medic;1135;362;109;0;17;1;Opening Event;1/16/2020;;January 31st
+Fang;3;Female;Op Reserve A1;Vanguard Pioneer;1325;325;260;0;11;2;Opening Event;1/16/2020;;December 2nd
+Melantha;3;Female;Op Reserve A4;Guard Dreadnought;2745;738;155;0;15;1;Opening Event;1/16/2020;;March 19th
+Rangers;2;Male;Op A4;Sniper Marksman;780;269;66;0;7;1;Opening Event;1/16/2020;;July 22nd
+Yato;2;Female;Op A4;Vanguard Pioneer;1030;232;192;0;7;2;Opening Event;1/16/2020;;May 14th
+12F;2;Male;Rhodes Island;Caster Splash;1461;432;50;10;24;1;Opening Event;1/16/2020;;March 3rd
+Durin;2;Female;Op A4;Caster Core;952;340;62;10;12;1;Opening Event;1/16/2020;;December 15th
+Noir Corne;2;Male;Op A4;Defender Protector;1670;240;315;0;14;3;Opening Event;1/16/2020;;August 30th
+Castle-3;1;Male;Rhodes Island;Guard Dreadnought;1191;353;90;0;3;1;Opening Event;1/16/2020;;December 10th
+Lancet-2;1;Female;Rhodes Island;Medic Medic;435;70;27;0;3;1;Opening Event;1/16/2020;;May 12th
+Bagpipe;6;Female;Victoria;Vanguard Charger;2484;586;382;0;13;1;Contingency Contract Barrenland;;;July 17th
+Highmore;5;Female;Iberia;Guard Reaper;2120;670;454;0;22;2;Mizuki & Caerula Arbor;;;August 23rd
+Bibeak;5;Female;Sami;Guard Swordmaster;2550;602;332;0;22;2;Contingency Contract Barrenland;;;December 12th
+Valarqvin;5;Female;Sami;Supporter Ritualist;1097;447;101;15;15;1;Expeditioner's Joklumarkar;;;No exact date provided
+Erato;5;Female;Minos;Sniper Besieger;1648;957;125;0;23;1;Contingency Contract Deepness;;;March 14th
+Tin Man;5;Male;Columbia;Specialist Alchemist;1114;469;99;30;17;1;Sarkaz's Furnaceside Fables;;;Undisclosed
+Broca;5;Male;Chiave's Gang;Guard Centurion;2335;762;366;0;23;3;;;;February 4th
+Sesa;5;Male;Sargon;Sniper Artilleryman;1655;833;123;0;28;1;Contingency Contract Barrenland;;;April 22nd
+Tuye;5;Female;Sargon;Medic Medic;1550;493;135;0;21;1;Contingency Contract Lead Seal;;;April 15th
+Asbestos;5;Female;Rim Billiton;Defender Arts Protector;3135;633;555;15;25;3;Contingency Contract Pyrite;;;July 30th
+Kestrel;5;Female;Sargon;Vanguard Pioneer;1960;514;342;0;13;2;Tales Within the Sand;;;Reported as Unknown
+Scene;5;Female;Sargon;Supporter Summoner;1105;432;155;20;11;1;Contingency Contract Blade;;;December 31st
+Reed;5;Female;Victoria;Vanguard Charger;2215;562;364;0;12;1;;;;October 16th
+Shalem;5;Male;Victoria;Defender Arts Protector;3090;649;550;15;25;3;Phantom & Crimson Solitaire;;;December 9th
+Tsukinogi;5;Female;Higashi;Supporter Abjurer;1620;385;175;25;12;1;Contingency Contract Pyrite;;;May 3rd
+Astesia;5;Female;Columbia;Guard Arts Fighter;2523;660;393;15;21;1;;;;July 10th
+Breeze;5;Female;Victoria;Medic Multi-target;1595;343;153;0;17;1;;;;June 24th
+Conviction;4;Conviction;Minos;Guard Dreadnought;3483;929;166;0;16;1;April Fools;;;Unknown
+Dur-nar;4;Female;Rhodes Island;Defender Arts Protector;3007;583;548;15;24;3;;;;August 11th
+Ethan;4;Male;Rhodes Island;Specialist Ambusher;1530;742;337;30;19;0;;;;January 29th
+Utage;4;Female;Higashi;Guard Soloblade;3444;693;312;0;24;1;Contingency Contract Barrenland;;;April 4th
+Myrtle;4;Female;Rhodes Island;Vanguard Standard Bearer;1565;520;300;0;10;1;;;;December 13th
+Catapult;3;Female;Op Reserve A6;Sniper Artilleryman;1150;617;85;0;23;1;;;;August 8th
+U-Official;1;Female;Rhodes Island;Supporter Bard;385;102;28;0;3;1;The Ultimate Beautiful Girl;;;January 4th
