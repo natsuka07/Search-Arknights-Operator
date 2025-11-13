@@ -8,28 +8,25 @@ dataset = pd.read_csv(path, sep=";")
 # ===============================================
 # General initialize
 dataset["Limited"] = dataset["Limited"].fillna("Non-Limited")
-dataset = dataset.drop(["DP Cost", "Block", "Event", "EN_Release"], axis=1) # gen ra kedawan -khairil
+dataset = dataset.drop(["DP Cost", "Block", "Event", "EN_Release", "Birthday"], axis=1) # gen ra kedawan -khairil
 
 # Gacha initalize
 def prob(row):
     probability = row["Rarity"]
 
     if pd.isna(probability):
-        return "Un-Obtainable Via Gacha"
+        return ""
     
-    # aku ra main, tulung benakne probailty ne -khairil
     if probability == 6:
-        return 0.000007
+        return 0.02
     elif probability == 5:
-        return 0.000011
+        return 0.08
     elif probability == 4:
-        return 0.0003
+        return 0.5
     elif probability == 3:
-        return 0.001
-    elif probability == 2:
-        return 0.007
+        return 0.4
     else:
-        return 0.01
+        return "Un-Obtainable Via Gacha"
 dataset["Probability"] = dataset.apply(prob, axis=1) # iki nambah kolom mending di show po ora? -khairil
 
 # ===============================================
@@ -72,19 +69,21 @@ def cari():
         else:
             print(f"\nNo operator found with name containing '{nama}' and rarity '{rarity}'.")
     search(dataset, nama, rarity)
-    input()
+    out()
     bersih()
 
 def gacha():
     welcome("Gacha operator")
     print("yet, no idea how to implemented 'pull' in here\n-khairil")
-    input()
+    out()
     bersih()
 
 def tampil():
-    print(tabulate(dataset.head(), headers="keys", tablefmt="simple", showindex=False))
-    print("\n\nDataset last updated 12 November 2025")
-    input()
+    print(tabulate(dataset.head(), headers="keys", tablefmt="fancy_grid", showindex=False))
+    print("Menampilkan 5 data teratas...")
+    print("\n\nDataset last updated 12 November 2025\n")
+    welcome("Display Dataset")
+    menuTampil()
 
 # ===============================================
 def bersih():
@@ -95,6 +94,10 @@ def welcome(args):
     print("=", args.center(36, " "), "=")
     print("=" * 40)
 
+def out():
+    input("Tekan Enter untuk lanjut...")
+    bersih()
+
 def menu():
     print("Mau ngapain?")
     print("A. Pencarian Operator")
@@ -102,6 +105,41 @@ def menu():
     print("C. Tampilkan Dataset")
     print(" ")
 
+def menuTampil():
+    print("Mau ngapain?")
+    print("1. Semua Operator")
+    print("2. Rarity")
+    print("3. Stat")
+    print("4. Back")
+
+    while True:
+        try:
+            option = int(input("Masukkan Opsi\n>>"))
+        except ValueError:
+            bersih()
+            print("Input harus berupa angka (1, 2, 3, 4)")
+            menuTampil()
+        
+        if option == 1:
+            bersih()
+            print(tabulate(dataset, headers="keys", tablefmt="fancy_grid", showindex=False))
+            out()
+            menuTampil()
+        elif option == 2:
+            out()
+            # nampilke kabeh karakter sek ndue rarity tertentu
+            menuTampil()
+        elif option == 3:
+            out()
+            # iki digawe bercabang neh apik ketok e, modelan quantile wingi nganggo stat operator e
+            menuTampil()
+        elif option == 4:
+            bersih()
+            break
+        else:
+            bersih()
+            print("Input tidak diketahui")
+            continue
 
 # ===============================================
 if __name__ == "__main__":
