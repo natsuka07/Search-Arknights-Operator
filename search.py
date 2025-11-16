@@ -2,7 +2,7 @@ import os
 from tabulate import tabulate
 # import random
 import pandas as pd
-path = r"D:\Code\Tugas\arknights_operators_dataset.csv"
+path = "datasets/Arknights_Operators.csv"
 dataset = pd.read_csv(path, sep=";")
 
 # ===============================================
