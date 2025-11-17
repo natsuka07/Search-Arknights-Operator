@@ -9,7 +9,7 @@ https://arknights.wiki.gg/wiki/Operator
 
 
 
-fesnuk 24/7
+fesnuk 24/7 = 3.42857
 
 
 
@@ -56,4 +56,4 @@ fesnuk 24/7
 
 
   hati-hati git force ya mas  
-  korban -force counter : 1
+  korban -force counter : 2
