@@ -3,6 +3,12 @@ Sumber data :
 https://arknights.wiki.gg/wiki/Operator
 
 
+#include <iostream>
+using namespace std;
+
+int main(){
+}
+
 
 
 
